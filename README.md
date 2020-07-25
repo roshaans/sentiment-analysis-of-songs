@@ -1,4 +1,4 @@
-# Sentiment Analysis Of Songs From Across the recent decades
+# 🎹 Sentiment Analysis Of Songs From Across the recent decades
 
 I performed sentiment analysis across songs from different decades to see trends in the types of songs that were produced. I am no NLP guru and I realize that this approach is not the most effective to extract the sentiment from the lyrics as lyrics have repeat words and the data trained for Google Cloud's Natural Language API was probably trained on real text. That said, I pursued this project for fun and I hope you enjoy it :) 
 
